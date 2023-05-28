@@ -10,4 +10,6 @@ Idea :
         >> Find a joke generating API
         >> Integrate it into the JS
         >> Do the CSS
-        
+
+
+Found an API : https://v2.jokeapi.dev/joke
