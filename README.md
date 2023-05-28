@@ -6,9 +6,9 @@ Idea :
 
     >> Build a Programming Jokes Generator :
 
-        >> Build a Basic HTML
-        >> Find a joke generating API
-        >> Integrate it into the JS
+        >> Build a Basic HTML (Done)
+        >> Find a joke generating API (Done)
+        >> Integrate it into the JS (Done)
         >> Do the CSS
 
 
