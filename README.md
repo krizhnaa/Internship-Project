@@ -2,6 +2,8 @@ Final Internship Project
 
 Idea : 
 
+This is a website which generates Programming based jokes on clicking the generate button, where the jokes are generated through an API.
+
 >> Ok here is the planned laid-out :
 
     >> Build a Programming Jokes Generator :
