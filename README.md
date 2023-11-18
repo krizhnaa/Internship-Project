@@ -16,4 +16,4 @@ This is a website which generates Programming based jokes on clicking the genera
 
 Found an API : https://v2.jokeapi.dev/joke
 
-Deployed at : https://krizhnaa.github.io/me-internship-project/
+Deployed at : https://krizhnaa.github.io/jokergram-project/
